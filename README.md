@@ -1,17 +1,17 @@
-<a href="https://bit.ly/3koZRGY"><img src="https://fontm.com/accent-normal/" alt="google-font" border="0"></a>
+<a href="https://bit.ly/3koZRGY"><img src="f6b7340d38d7e43a479eb7f8d177fb34.png" alt="google-font" border="0"></a>
 <div align="center">
         <img src="giphy (1).webp" alt="GIF" width="250" height="200"/>
 </p>
 
 <div align="center">
 
-## [![Venom](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Venom+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![Venom](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Venom+WA+Bot+repo;Created+by+NEERAJ+and+Adwaith;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="AMEER KALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="NEERAJ" src="https://img.shields.io/badge/NEERAJ-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/neerajproo"><img title="Author" src="https://img.shields.io/badge/Author-neerajproo/Venom?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -51,16 +51,16 @@ Project created by <a href="https://github.com/neerajproo">neerajproo</a> to mak
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/CLxXlEqMSVRCixk4IW2vPd" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 ## 
-  <h3 align="center">📢 Support Group 2:</h3>
+  <h3 align="center">📢 BOT GROUP:</h3>
 <p align="center">
-Click Venom logo to Join Support Group 2👇
+Click Venom logo to Join BOT GROUP👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/B6PhbZIlvHx8IzcEDC5lEJ" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
