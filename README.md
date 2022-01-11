@@ -1,6 +1,6 @@
 <a href="https://bit.ly/3koZRGY"><img src="f6b7340d38d7e43a479eb7f8d177fb34.png" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="giphy (1).webp" alt="GIF" width="250" height="200"/>
+        <img src="723E517863C6492E974BC51B1982EC70.gif" alt="GIF" width="250" height="200"/>
 </p>
 
 <div align="center">
