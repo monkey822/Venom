@@ -122,7 +122,6 @@ By establishing the Venom, you are deemed to have accepted these responsibilitie
   <div align="center">
     
   [![neerajproo](https://github.com/neerajproo.png?size=100)](https://github.com/neerajproo) |
-----|----|----
 [Neeraj](https://github.com/neerajproo) |Adwaith
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
