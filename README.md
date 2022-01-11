@@ -121,19 +121,15 @@ By establishing the Venom, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![neerajproo](https://github.com/neerajproo.png?size=100)](https://github.com/neerajproo) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![neerajproo](https://github.com/neerajproo.png?size=100)](https://github.com/neerajproo) |
 ----|----|----
-[Ameer Suhail](https://github.com/neerajproo) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[Neeraj](https://github.com/neerajproo) |Adwaith
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
 ## Contributors
-`Ameer Suhail`
-`Afnanplk`
-`Cyberchekuthan`
-`Farhan-Dqz`
-`Saidalisaid`
-`Souravkl11`
+`Neeraj`
+`Adwaith`
         
         
 ## License
