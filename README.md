@@ -52,6 +52,15 @@ Click WA logo to Join Support Group 👇
     <br>
 <br>
   <a href="https://chat.whatsapp.com/CLxXlEqMSVRCixk4IW2vPd" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+        
+##
+  <h3 align="center"
+        Click WA logo to contact Owner👇
+    <br>
+<br>
+  <a href="https://wa.me/+916235586546" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+        
+</p>
 </p>
 
 ## 
