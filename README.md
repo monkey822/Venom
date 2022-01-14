@@ -1,11 +1,46 @@
 <a href="https://bit.ly/3koZRGY"><img src="f6b7340d38d7e43a479eb7f8d177fb34.png" alt="google-font" border="0"></a>
 <div align="center">
         <img src="4374128D-CD94-43E6-AFDD-9332A6341D1D.gif" alt="GIF" width="250" height="200"/>
+        
+        
+</p>
+
+----
+
+<div align="center">
+        
+ ##
+        
+## SETUP
+
+  Simple Method
+        
+   1ST QR CODE     
+  
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@pikachucreator/pikachu-QR)
+        
+2ND QR CODE
+        
+        
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@neerajproo/Venom-QR#index.js) 
+        
+</p>
+        
+ ----
+        
+  <div align="center"> 
+          
+         
+        
+ ## FOR DEPLOYING
+
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/neerajproo/Venom.git)
+        
+ ##
+          
 </p>
 
 <div align="center">
-
-## [![Venom](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Venom+WA+Bot+repo;Created+by+NEERAJ+and+Adwaith;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
@@ -27,21 +62,11 @@ Project created by <a href="https://github.com/neerajproo">neerajproo</a> to mak
 
 ----
 
-<h3 align="center">Contact Me:</h3>
-<p align="center">
-<a href="https://instagram.com/ameer_.su_hail?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
-</p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
-<p align="center">
-<a href="https://youtu.be/_D4ZYuUSXjs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
   
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neerajproo&show_icons=true&theme=dark&locale=en" alt="neerajproo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajproo&theme=dark" alt="neerajproo" /></p>
 </p>
 
 
@@ -54,7 +79,8 @@ Click WA logo to Join Support Group 👇
   <a href="https://chat.whatsapp.com/CLxXlEqMSVRCixk4IW2vPd" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
         
 ##
-  <h3 align="center"
+  <h3 align="center" Neeraj Owner number
+<p align=<"center">
         Click WA logo to contact Owner👇
     <br>
 <br>
@@ -72,18 +98,7 @@ Click Venom logo to Join BOT GROUP👇
   <a href="https://chat.whatsapp.com/B6PhbZIlvHx8IzcEDC5lEJ" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
-## Setup
-<div align="center">
 
-  ### Simple Method
-  
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@pikachucreator/pikachu-QR)
-        
- ## 2ND QR CODE
-        
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@neerajproo/Venom-QR#index.js) 
-
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/neerajproo/Venom.git)
      </div>
 <br>
 <br >
