@@ -107,7 +107,6 @@ Click Venom logo to Join BOT GROUP👇
  
 <div align="center">
 
- [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
  
  <div align="left">
   
