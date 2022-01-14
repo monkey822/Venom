@@ -150,8 +150,9 @@ By establishing the Venom, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![neerajproo](https://github.com/neerajproo.png?size=100)](https://github.com/neerajproo) |
-[Neeraj](https://github.com/neerajproo) |Adwaith
+  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+----|----|----
+[Ameer Suhail](https://github.com/ameer-kallumthodi) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
