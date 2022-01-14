@@ -78,6 +78,10 @@ Click Venom logo to Join BOT GROUP👇
   ### Simple Method
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@pikachucreator/pikachu-QR)
+        
+ ## 2ND QR CODE
+        
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@neerajproo/Venom-QR#index.js) 
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/neerajproo/Venom.git)
      </div>
