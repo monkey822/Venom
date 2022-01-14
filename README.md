@@ -13,7 +13,7 @@
         
 ## SETUP
         
- <img src="82E1AD8B-0FAC-4BF2-9F33-3A43FC55D5F8.jpeg" alt="google-font" border="0"></a>
+ <img src="F78438F3-80AF-48FD-B954-B457DDB0B741.jpeg" alt="google-font" border="0"></a>
 
   Simple Method
         
@@ -101,7 +101,7 @@ Click Venom logo to Join BOT GROUP👇
 </p>
     
 
-     </div>
+   
 <br>
 <br >
  
