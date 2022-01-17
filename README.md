@@ -150,15 +150,16 @@ By establishing the Venom, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Neeraj](https://github.com/neerajproo.png?size=100)](https://github.com/neerajproo) | [![Adwaith](https://github.com/adwaithproo.png?size=100)](https://github.com/adwaithproo)
-----|----
-[Neeraj](https://github.com/neerajproo) | [Adwaith](https://github.com/adwaithproo)
+   [![Neeraj](https://github.com/neerajproo.png?size=100)](https://github.com/neerajproo) | [![Adwaith](https://github.com/adwaithproo.png?size=100)](https://github.com/adwaithproo) | [![Niranjan](https://github.com/Weberx.png?size=100)](https://github.com/Weberx)
+----|----|----
+[Neeraj](https://github.com/neerajproo) | [Adwaith](https://github.com/adwaithproo) | [Niranjan](https://github.com/Weberx)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
 ## Contributors
 `Neeraj`
 `Adwaith`
+`Niranjan`
         
         
 ## License
