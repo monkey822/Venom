@@ -13,7 +13,7 @@
         
 ## SETUP
         
- <img src="F78438F3-80AF-48FD-B954-B457DDB0B741.jpeg" alt="google-font" border="0"></a>
+ <img src="BB226E4D-686E-4309-A381-634D52014B4F.gif" alt="google-font" border="0"></a>
 
   Simple Method
         
