@@ -1,4 +1,4 @@
-<a href="https://bit.ly/3koZRGY"><img src="f6b7340d38d7e43a479eb7f8d177fb34.png" alt="google-font" border="0"></a>
+<a href="https://bit.ly/3koZRGY"><img src="2DCCAE5B-58E4-4631-BA46-54FAB014BD79.png" alt="google-font" border="0"></a>
 <div align="center">
         <img src="493C03E0-A438-42D5-AF88-EFE2936E39E3.gif" alt="GIF" width="250" height="250"/>
         
