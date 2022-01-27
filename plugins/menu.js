@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "33DE9002-F467-4BA6-8686-763344D1A2E3.png";
+    r_text[0] = "https://www.pixelstalk.net/wp-content/uploads/2016/08/Black-Spiderman-Iphone-Desktop-Wallpaper.jpg";
     
     
     var i = Math.floor(1*Math.random())
