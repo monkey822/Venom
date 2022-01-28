@@ -1,6 +1,6 @@
 <a href="https://bit.ly/3koZRGY"><img src="https://i.imgur.com/X8aRt5O.png" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="493C03E0-A438-42D5-AF88-EFE2936E39E3.gif" alt="GIF" width="250" height="250"/>
+        <img src="https://i.imgur.com/RLNhvSe.gif" alt="GIF" width="250" height="250"/>
         
         
 </p>
@@ -86,7 +86,7 @@ Click WA logo to Join Support Group 👇
         Click WA logo to contact Owner👇
     <br>
 <br>
-  <a href="https://wa.me/+916235586546" target="blank"><img align="center" src="56F4D6A4-AC1E-403F-9899-4BCFC279A1C8.jpeg" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://wa.me/+916235586546" target="blank"><img align="center" src="https://i.imgur.com/YPenPeG.jpg" alt="kyrie.baran" height="200" width="300" /></a>
         
 </p>
 </p>
