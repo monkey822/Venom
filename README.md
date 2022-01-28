@@ -150,8 +150,8 @@ By establishing the Venom, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-   [![Neeraj](https://github.com/neerajproo.png?size=200)](https://github.com/neerajproo) | [![Adwaith](https://github.com/adwaithproo.png?size=200)](https://github.com/adwaithproo) | [![Niranjan](https://github.com/Weberx.png?size=200)](https://github.com/Weberx)
-----|----|----
+   [![Neeraj](https://github.com/neerajproo.png?size=200)](https://github.com/neerajproo) | [![Adwaith](https://github.com/adwaithproo.png?size=200)](https://github.com/adwaithproo) | [![Niranjan](https://github.com/Weberx.png?size=200)](https://github.com/Weberx) | <img width='200' height='200'  src="https://bit.ly/3ADky8t" alt=""> 
+----|----|----|----
 [Neeraj](https://github.com/neerajproo) | [Adwaith](https://github.com/adwaithproo) | [Niranjan](https://github.com/Weberx)
 Base, Bug Fixes, Modules | Bgm adding | Bug fixes, ideas
   </div>
