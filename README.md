@@ -1,4 +1,4 @@
-<a href="https://bit.ly/3koZRGY"><img src="2DCCAE5B-58E4-4631-BA46-54FAB014BD79.png" alt="google-font" border="0"></a>
+<a href="https://bit.ly/3koZRGY"><img src="https://i.imgur.com/X8aRt5O.png" alt="google-font" border="0"></a>
 <div align="center">
         <img src="493C03E0-A438-42D5-AF88-EFE2936E39E3.gif" alt="GIF" width="250" height="250"/>
         
@@ -13,7 +13,7 @@
         
 ## SETUP
         
- <img src="726EFB44-8C5C-4304-A222-834CF27D4EF6.gif" alt="google-font" border="0"></a>
+ <img src="https://i.imgur.com/f5OYuMX.gif" alt="google-font" border="0"></a>
 
   Simple Method
         
